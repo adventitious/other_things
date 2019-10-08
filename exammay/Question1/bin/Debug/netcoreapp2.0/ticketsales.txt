@@ -1,0 +1,7 @@
+1,Basic,4         
+2,Super,6
+3,Delux,7
+4,Delux,5
+5,Basic,6
+6,Super,7
+7,VIP,2
